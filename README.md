@@ -19,6 +19,7 @@ This project integrates raw trip data, SQL Server transformations and a Power BI
 - Battery usage and savings metrics  
 
 ## 📁 Repository Structure
+```
 ev-analytics-dashboard/
 │
 ├── sql/
@@ -34,6 +35,7 @@ ev-analytics-dashboard/
 │   ├── screenshots/     (recommended)
 │
 └── README.md
+```
 ## 📝 Notes
 - Real personal data was removed or replaced with sample values.  
 - The Power BI file may be replaced with screenshots if needed.
