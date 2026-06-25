@@ -4,9 +4,9 @@
 A complete analytics pipeline designed to evaluate the efficiency, energy consumption and cost performance of an electric vehicle (EV).  
 This project integrates raw trip data, SQL Server transformations and a Power BI dashboard to deliver actionable insights.
 
-## 🔧 Technologies Used
+## 🧰 Technologies Used
 - **Excel** — raw data collection & parameter inputs  
-- **SQL Server** — ETL (raw → stage → enriched view), data cleaning, transformations  
+- **SQL Server** — ETL (raw → staging → enriched view), data cleaning, transformations  
 - **Power BI** — data modeling, DAX measures, KPIs, dashboards  
 
 ## 📊 Key Features
@@ -19,7 +19,6 @@ This project integrates raw trip data, SQL Server transformations and a Power BI
 - Battery usage and savings metrics  
 
 ## 📁 Repository Structure
-
 ev-analytics-dashboard/
 │
 ├── sql/
@@ -35,12 +34,11 @@ ev-analytics-dashboard/
 │   ├── screenshots/     (recommended)
 │
 └── README.md
-
-## 📌 Notes
+## 📝 Notes
 - Real personal data was removed or replaced with sample values.  
-- The Power BI file may be replaced with screenshots if needed.  
+- The Power BI file may be replaced with screenshots if needed.
 
-## 📈 Dashboard Preview
+## 📊 Dashboard Preview
 *(Screenshots will be added later)*
 
 ## 📬 Contact
