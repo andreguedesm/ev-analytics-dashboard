@@ -26,11 +26,11 @@ ev-analytics-dashboard/
 │   ├── parameters.csv
 │   ├── trip_reports_raw.csv
 │
-├── excel/
+├── SQL/
 │   ├── CreationCodex.sql
 │   ├── refresh_data.sql
 │
-├── powerbi/
+├── PowerBI/
 │   ├── EV Insights & Performance Analytics.pbix
 │
 └── README.md
