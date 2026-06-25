@@ -22,20 +22,24 @@ This project integrates raw trip data, SQL Server transformations and a Power BI
 ```
 ev-analytics-dashboard/
 │
-├── sql/
-│   ├── schema.sql
-│   ├── refresh_data.sql
+├── Excel/
+│   ├── parameters.csv
+│   ├── trip_reports_raw.csv
 │
 ├── excel/
-│   ├── raw_data_example.xlsx
-│   ├── parameters_example.xlsx
+│   ├── CreationCodex.sql
+│   ├── refresh_data.sql
 │
 ├── powerbi/
-│   ├── dashboard.pbix   (optional)
-│   ├── screenshots/     (recommended)
+│   ├── EV Insights & Performance Analytics.pbix
 │
 └── README.md
 ```
+## How to Use
+- **Excel** — Insert or update raw trip data and vehicle parameters.
+- **SQL Server** — Run the scripts to clean, transform and load the data into the EV_Analytics database.
+- **Power BI** — Refresh the data model to generate updated KPIs and visual insights.
+
 ## 📝 Notes
 - Real personal data was removed or replaced with sample values.  
 - The Power BI file may be replaced with screenshots if needed.
