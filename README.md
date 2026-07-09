@@ -42,9 +42,7 @@ ev-analytics-dashboard/
 - **Power BI** — Refresh the data model to generate updated KPIs and visual insights.
 
 ### User Guide (Manual Completo)
-Para instruções detalhadas de instalação, configuração e utilização do projeto, consulte o manual completo:
-
-[EV Analytics Dashboard UserGuide v1.0.pdf](EV%20Analytics%20Dashboard%20UserGuide%20v1.0.pdf)
+Para instruções detalhadas de instalação, configuração e utilização do projeto, consulte o manual completo: [EV Analytics Dashboard UserGuide v1.0.pdf](EV%20Analytics%20Dashboard%20UserGuide%20v1.0.pdf)
 
 ## 📝 Notes
 - Real personal data was removed or replaced with sample values.  
