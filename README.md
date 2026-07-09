@@ -33,12 +33,18 @@ ev-analytics-dashboard/
 ├── PowerBI/
 │   ├── EV Insights & Performance Analytics.pbix
 │
-└── README.md
+└── EV Analytics Dashboard UserGuide v1.0.pdf
+└── README.md 
 ```
 ## How to Use
 - **Excel** — Insert or update raw trip data and vehicle parameters.
 - **SQL Server** — Run the scripts to clean, transform and load the data into the EV_Analytics database.
 - **Power BI** — Refresh the data model to generate updated KPIs and visual insights.
+
+### User Guide (Manual Completo)
+Para instruções detalhadas de instalação, configuração e utilização do projeto, consulte o manual completo:
+
+[EV Analytics Dashboard UserGuide v1.0.pdf](EV%20Analytics%20Dashboard%20UserGuide%20v1.0.pdf)
 
 ## 📝 Notes
 - Real personal data was removed or replaced with sample values.  
