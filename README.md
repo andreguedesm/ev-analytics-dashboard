@@ -59,16 +59,16 @@ Para instruções detalhadas de instalação, configuração e utilização do p
 ## 📊 Dashboard Preview
 
 ### 1. Overview — Vehicle Performance Summary
-![Overview](Imagens/Overview.png)
+![Overview](Images/Overview.png)
 
 ### 2. Cost Comparison — EV vs ICE
-![Savings & Costs](Imagens/Savings&Costs.png)
+![Savings & Costs](Images/Savings&Costs.png)
 
 ### 3. Consumption & Efficiency Analysis
-![Energy & Battery Performance](Imagens/Energy&BatteryPerformance.png)
+![Energy & Battery Performance](Images/Energy&BatteryPerformance.png)
 
 ### 4. Trip Analysis — Distance & Driving Behavior
-![Trips & Driving Behavior](Imagens/Trips&DrivingBehavior.png)
+![Trips & Driving Behavior](Images/Trips&DrivingBehavior.png)
 
 
 ## 📬 Contact
