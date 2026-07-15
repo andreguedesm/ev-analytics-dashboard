@@ -57,7 +57,19 @@ Para instruções detalhadas de instalação, configuração e utilização do p
 - The Power BI file may be replaced with screenshots if needed.
 
 ## 📊 Dashboard Preview
-*(Screenshots will be added later)*
+
+### 1. Overview — Vehicle Performance Summary
+![Overview](Imagens/Overview.png)
+
+### 2. Cost Comparison — EV vs ICE
+![Savings & Costs](Imagens/Savings&Costs.png)
+
+### 3. Consumption & Efficiency Analysis
+![Energy & Battery Performance](Imagens/Energy&BatteryPerformance.png)
+
+### 4. Trip Analysis — Distance & Driving Behavior
+![Trips & Driving Behavior](Imagens/Trips&DrivingBehavior.png)
+
 
 ## 📬 Contact
 If you want to discuss the project or ask questions:  
