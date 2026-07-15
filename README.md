@@ -1,4 +1,8 @@
-# EV Analytics Dashboard  
+<h1 align="left">
+  <img src="Images/title_banner.png" alt="EV Analytics" width="55">
+  # EV Analytics Dashboard
+</h1>  
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
