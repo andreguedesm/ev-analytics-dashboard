@@ -1,4 +1,8 @@
 # EV Analytics Dashboard  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 **Excel → SQL Server → Power BI**
 
 A complete analytics pipeline designed to evaluate the efficiency, energy consumption and cost performance of an electric vehicle (EV).  
@@ -34,6 +38,7 @@ ev-analytics-dashboard/
 │   ├── EV Insights & Performance Analytics.pbix
 │
 └── EV Analytics Dashboard UserGuide v1.0.pdf
+│
 └── README.md 
 ```
 ## How to Use
