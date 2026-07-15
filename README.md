@@ -6,7 +6,8 @@
 **Excel → SQL Server → Power BI**
 
 A complete analytics pipeline designed to evaluate the efficiency, energy consumption and cost performance of an electric vehicle (EV).  
-This project integrates raw trip data, SQL Server transformations and a Power BI dashboard to deliver actionable insights.
+This project integrates raw trip data, SQL Server transformations and a Power BI dashboard to deliver actionable insights. For a detailed explanation of the data model, ETL pipeline and full project architecture, please refer to the User Guide included in this repository.
+
 
 ## 🧰 Technologies Used
 - **Excel** — raw data collection & parameter inputs  
