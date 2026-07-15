@@ -7,7 +7,9 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Excel → SQL Server → Power BI**
+<p align="center">
+  <img src="Images/Pipeline_banner.png" alt="EV Analytics Pipeline" width="100%">
+</p>
 
 A complete analytics pipeline designed to evaluate the efficiency, energy consumption and cost performance of an electric vehicle (EV).  
 This project integrates raw trip data, SQL Server transformations and a Power BI dashboard to deliver actionable insights. For a detailed explanation of the data model, ETL pipeline and full project architecture, please refer to the User Guide included in this repository.
